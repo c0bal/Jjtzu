@@ -1,0 +1,12 @@
+{
+    "PORT": 8080,
+    "VELOCIDAD_CARGA": 30,
+    "RUTA_VENTANA_INICIO": ["frontend", "ui_files", "ventana_inicio.ui"],
+    "RUTA_VENTANA_CUENTA": ["frontend", "ui_files", "ventana_cuenta.ui"],
+    "RUTA_VENTANA_JUEGO": ["frontend", "ui_files", "ventana_juego.ui"],
+    "RUTA_VENTANA_FINAL": ["frontend", "ui_files", "ventana_final.ui"],
+    "RUTA_VENTANA_CHAT": ["frontend", "ui_files", "ventana_chat.ui"],
+    "CUENTA_REGRESIVA_INICIO": 5,
+    "BARAJA_PANTALLA": 5,
+    "CUENTA_REGRESIVA_RONDA": 30
+}
